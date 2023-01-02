@@ -1,4 +1,3 @@
-URL: https://cs.corp.google.com/piper///depot/google3/third_party/java_src/android_libs/backup/
-Version: google3 HEAD
-BugComponent: 176791
-Owners: petrcermak, alexkershaw, transformer
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a8b697c14beb06e5dc904ef3f0fb2cace4f5b3afb0e4f320b2d9c5fbd7b0429
+size 184

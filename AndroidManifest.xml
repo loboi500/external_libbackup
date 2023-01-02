@@ -1,7 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.google.android.libraries.backup"
-  android:versionCode="1"
-  android:versionName="1.0">
-  <uses-sdk android:minSdkVersion="8"/>
-</manifest>
+version https://git-lfs.github.com/spec/v1
+oid sha256:3642a11ba285f86594f2754312c9f93f69a268b5819ceadd509c03bd6de9315c
+size 263
